@@ -25,9 +25,9 @@ Finally, create a Pull Request (PR) to the [BLUEStandard repository](https://git
 | [2](BIP/bip-2.md)  | Smart contract locking | Alex, @ATotallySmartPerson |
 
 ## Complete BIPs
-| Number             | Title                  | Author                     |
-|--------------------|------------------------|----------------------------|
-| [1](BIP/bip-1.md)  | First BIP draft         | Uni Banker, @unibanker    |
+| Number             | Title                        | Author                     |
+|--------------------|------------------------------|----------------------------|
+| [1](BIP/bip-1.md)  | Infinite Minting Prevention  | Uni Banker, @unibanker    |
 
 ## Deferred BIPs
 | Number             | Title                  | Author                     |
