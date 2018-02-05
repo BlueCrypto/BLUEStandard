@@ -27,7 +27,7 @@ Finally, create a Pull Request (PR) to the [BLUEStandard repository](https://git
 # Complete BIPs
 | Number             | Title                  | Author              |
 |--------------------|------------------------|---------------------|
-| [1](BIP/bip-1.md) | First BIP draft        |                     |
+| [1](BIP/bip-1.md) | First BIP draft         | Uni Banker          |
 
 # Deferred BIPs
 | Number             | Title                  | Author              |
