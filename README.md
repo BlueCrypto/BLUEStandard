@@ -16,20 +16,21 @@ Finally, create a Pull Request (PR) to the [BLUEStandard repository](https://git
 * **Deferred** - Any BIP that is not currently being considered for adoption
 
 ## Draft BIPs
-| Number             | Title                  | Author              |
-|--------------------|------------------------|---------------------|
+| Number             | Title                  | Author                     |
+|--------------------|------------------------|----------------------------|
 
 ## Accepted BIPs
-| Number             | Title                  | Author              |
-|--------------------|------------------------|---------------------|
+| Number             | Title                  | Author                     |
+|--------------------|------------------------|----------------------------|
+| [2](BIP/bip-2.md)  | Smart contract locking | Alex, @ATotallySmartPerson |
 
 ## Complete BIPs
-| Number             | Title                  | Author              |
-|--------------------|------------------------|---------------------|
-| [1](BIP/bip-1.md) | First BIP draft         | Uni Banker          |
+| Number             | Title                  | Author                     |
+|--------------------|------------------------|----------------------------|
+| [1](BIP/bip-1.md)  | First BIP draft         | Uni Banker, @unibanker    |
 
 ## Deferred BIPs
-| Number             | Title                  | Author              |
-|--------------------|------------------------|---------------------|
+| Number             | Title                  | Author                     |
+|--------------------|------------------------|----------------------------|
 
 
