@@ -2,12 +2,12 @@
 
 ## Preamble
     BIP: 1
-    Author: Uni Banker, <uni@etherblue.org)
+    Author: Uni Banker, <uni@etherblue.org>
     Status: Complete
     Created: 2018-02-01
 
 ## Simple Summary
-"If you can't explain it simply, you don't understand it well enough." Provide a simplified and layman-accessible explanation of the BIP.
+Detect and prevent smart contracts that allow a single owner to mint tokens at any time.
 
 ## Abstract
 Token creators can optionally choose to opt-in to giving themeselves or others the ability to mint tokens. We believe this should be limited in time, scope, or quantity. Whether intentional or accidental we should introduce a fuzz-testing layer to the EVM that can try random inputs until it is determined that the total supply may be increased or decreased through smart contract interactions.
